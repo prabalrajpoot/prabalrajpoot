@@ -31,15 +31,15 @@
 
 <img align="center" alt="Github Profile badges" src="https://visitor-badge.laobi.icu/badge?page_id=prabalrajpoot">
 
-<img align="center" alt="Github Profile badges" src="https://img.shields.io/github/followers/anuragd275?label=Follow&style=social">
+<img align="center" alt="Github Profile badges" src="https://img.shields.io/github/followers/prabalrajpoot?label=Follow&style=social">
 
 ### Connect with me:
 
-### Twitter : https://twitter.com/anuragd275
+### Twitter : https://twitter.com/iamprabalrajpo1
 
-### Instagram : https://instagram.com/the_anurag_dubey
+### Instagram : https://instagram.com/_prabal.rajpoot_
 
-### Linkedin : https://www.linkedin.com/in/anuragd275/
+### Linkedin : https://www.linkedin.com/in/prabal-pratap-singh-745160227
 
 <br>
 
