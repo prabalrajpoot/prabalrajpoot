@@ -1,49 +1,44 @@
+# Hi there, I'm Prabal Pratap Singh 👋
 
-### Hello, I am Prabal Pratap Singh.
-
-## I'm a Student.
-
-- Currently Working on Portfolio.
-- Currently Learning Python and React.
-- Looking to Collaborate with Front-end Developers.
-- 2022 Goals : Become a Full stack Developer.
-
-## Languages and Tools:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="JQuey" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/prabal-pratap-singh-0a1b2c3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabal Pratap Singh" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="Github Profile badges" src="https://visitor-badge.laobi.icu/badge?page_id=prabalrajpoot">
+### 🚀 About Me
+I am a **Trainee Engineer** at **Pragyawan Technologies** and a 2025 Computer Science & Engineering graduate. I specialize in **Python, Backend Development, and AI/ML solutions**.
 
-<img align="center" alt="Github Profile badges" src="https://img.shields.io/github/followers/prabalrajpoot?label=Follow&style=social">
-
-### Connect with me:
-
-### Twitter : https://twitter.com/iamprabalrajpo1
-
-### Instagram : https://instagram.com/_prabal.rajpoot_?igshid=YmMyMTA2M2Y=
-
-### Linkedin : https://www.linkedin.com/in/prabal-pratap-singh-745160227
-
-<br>
+- 🔭 Currently: Working on operational engineering and backend systems.
+- 🎓 Education: **B.Tech in CSE** (Batch of 2025) from BBDNIIT, Lucknow.
+- 🌟 Certifications: **Google Cloud Skill Badges** (Vertex AI, Gemini), **Deloitte Tech Job Simulation**.
+- ✉️ Contact: prabalsingh379@gmail.com
 
 ---
+
+### 🛠️ Tech Stack
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,js,flask,mongodb,mysql,react,html,css,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabalrajpoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabalrajpoot&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+---
+
+### 🏆 Featured Projects
+- **[Exoplanet Detection](https://github.com/prabalrajpoot/exoplanet-detector)** - CNN-based model for analyzing NASA Kepler data to identify potential planets.
+- **[Stock Forecasting & Visualization](https://github.com/prabalrajpoot/Real-Time-Stock-Market-Dashboard)** - Built with Dash (Python) to forecast stock trends using ML models.
+- **[API Performance Monitor](https://github.com/prabalrajpoot/api-performance-monitor)** - Real-time monitoring and analysis of API health and metrics.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabalrajpoot&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=prabalrajpoot&show_icons=true&theme=tokyonight">
 
