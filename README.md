@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am a **Trainee Engineer** at **Pragyawan Technologies** and a 2025 Computer Science & Engineering graduate. I specialize in **Python, Backend Development, and AI/ML solutions**.
+I am a **Trainee Engineer** at *** and a 2025 Computer Science & Engineering graduate. I specialize in **Python, Backend Development, and AI/ML solutions**.
 
 - 🔭 Currently: Working on operational engineering and backend systems.
 - 🎓 Education: **B.Tech in CSE** (Batch of 2025) from BBDNIIT, Lucknow.
